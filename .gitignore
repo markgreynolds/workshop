@@ -1,0 +1,4 @@
+mta_archives/
+**/node_modules/**
+.env*
+.DS_Store
